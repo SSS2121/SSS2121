@@ -1,112 +1,186 @@
+# Santiago Serna
 
-## Seccion 1
-<div style="background: linear-gradient(135deg, #7A3A8E 0%, #522566 50%, #3d1a52 100%); padding: 4rem 2rem; border-radius: 16px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50px; right: -50px; width: 300px; height: 300px; background: rgba(173, 116, 195, 0.1); border-radius: 50%;"></div>
-  <div style="position: absolute; bottom: -80px; left: -80px; width: 250px; height: 250px; background: rgba(173, 116, 195, 0.08); border-radius: 50%;"></div>
-  
-  <div style="max-width: 700px; margin: 0 auto; position: relative; z-index: 1;">
-    <div style="text-align: center; margin-bottom: 2rem;">
-      <div style="font-size: 48px; font-weight: 700; color: #F8EDFB; letter-spacing: -1px; margin-bottom: 1rem; line-height: 1.1;">
-        Santiago
-      </div>
-      <div style="font-size: 20px; font-weight: 500; color: #AD74C3; margin-bottom: 1.5rem;">
-        Backend Engineer | Machine Learning Builder
-      </div>
-      <div style="background: rgba(173, 116, 195, 0.25); border: 2px solid #AD74C3; padding: 1.5rem 2rem; border-radius: 12px; display: inline-block;">
-        <div style="color: #EADFF0; font-size: 16px; line-height: 1.6;">
-          <span style="color: #F8EDFB; font-weight: 600;">Passionate about Deep Learning</span><br>
-          Building intelligent systems with PyTorch, Python & scalable backends
-        </div>
-      </div>
-    </div>
+> **Backend Engineer | Machine Learning Builder | Python Developer**
 
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 2rem;">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); padding: 1rem; border-radius: 8px; border: 1px solid rgba(173, 116, 195, 0.3); text-align: center;">
-        <div style="font-size: 28px; font-weight: 700; color: #AD74C3; margin-bottom: 4px;">5</div>
-        <div style="font-size: 12px; color: #EADFF0;">Active Repositories</div>
-      </div>
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); padding: 1rem; border-radius: 8px; border: 1px solid rgba(173, 116, 195, 0.3); text-align: center;">
-        <div style="font-size: 28px; font-weight: 700; color: #AD74C3; margin-bottom: 4px;">100%</div>
-        <div style="font-size: 12px; color: #EADFF0;">ML & Backend Focus</div>
-      </div>
-    </div>
-  </div>
-</div>
+🇨🇴 Based in Cali, Colombia | Passionate about Deep Learning & Intelligent Systems
 
-## seccion 2
-## Core Technologies
+---
+
+## 🚀 About Me
+
+I'm a systems engineering student building **intelligent backend systems** with a focus on **Machine Learning**. I specialize in:
+
+- 🧠 **Deep Learning** with PyTorch & TensorFlow
+- 🔧 **Backend Architecture** with Python & FastAPI
+- ⚙️ **Automation & Integration** with n8n
+- 📊 **Database Design** with PostgreSQL & Supabase
+
+My mission: Build production-grade ML systems that solve real business problems.
+
+---
+
+## 📊 Portfolio Stats
+
+[![ML Projects](https://img.shields.io/badge/ML%20Projects-60%25-7A3A8E?style=flat-square&logo=pytorch)](https://github.com/SSS2121)
+[![Python](https://img.shields.io/badge/Python-80%25-522566?style=flat-square&logo=python)](https://github.com/SSS2121)
+[![Repositories](https://img.shields.io/badge/Active%20Repos-5-AD74C3?style=flat-square&logo=github)](https://github.com/SSS2121)
+[![Focus](https://img.shields.io/badge/Backend%20%2B%20ML-100%25-3d1a52?style=flat-square)](https://github.com/SSS2121)
+
+---
+
+## 🛠️ Core Technologies
 
 | Technology | Expertise | Focus Area |
 |-----------|-----------|-----------|
-| **PyTorch** | Deep Learning | Neural Networks, Custom Architectures |
-| **Python** | Backend Development | FastAPI, Data Processing, Automation |
-| **Supabase** | PostgreSQL | Scalable Databases, Real-time APIs |
-| **n8n** | Automation | Workflow Orchestration, API Integration |
-| **TensorFlow** | Machine Learning | Production ML Models, Optimization |
-| **FastAPI** | Backend Frameworks | REST APIs, High-performance Systems |
-## Seccion 3
-## What I Do
+| **PyTorch** | ⭐⭐⭐⭐⭐ | Deep Learning, Neural Networks |
+| **Python** | ⭐⭐⭐⭐⭐ | Backend, Data Processing, Automation |
+| **FastAPI** | ⭐⭐⭐⭐ | REST APIs, High-Performance Systems |
+| **PostgreSQL** | ⭐⭐⭐⭐ | Database Design, Optimization |
+| **Supabase** | ⭐⭐⭐⭐ | Real-time APIs, Scalable Databases |
+| **n8n** | ⭐⭐⭐⭐ | Workflow Automation, Integration |
+| **TensorFlow** | ⭐⭐⭐⭐ | Production ML, Model Optimization |
+| **Next.js** | ⭐⭐⭐ | Full-Stack Web Development |
+
+---
+
+## 💼 What I Build
 
 ### 🧠 Machine Learning Systems
-- PyTorch model implementation and optimization
-- ONNX export for browser-side inference
-- Deep learning architectures from scratch
-- TensorFlow production pipelines
+```
+✓ PyTorch model implementation & optimization
+✓ ONNX export for browser-side inference
+✓ Deep learning architectures from scratch
+✓ TensorFlow production pipelines
+✓ Intent classification with weighted keywords
+✓ Custom neural network architectures
+```
 
 ### 🔧 Backend Architecture
-- FastAPI development for scalable APIs
-- PostgreSQL database design and optimization
-- Microservices and API orchestration
-- Cloud infrastructure (VPS, Docker, Vercel)
+```
+✓ FastAPI REST APIs (production-grade)
+✓ PostgreSQL database design & optimization
+✓ Microservices & API orchestration
+✓ Real-time data processing
+✓ Scalable cloud infrastructure
+✓ Docker containerization
+```
 
 ### ⚙️ Automation & Integration
-- n8n workflow design and deployment
-- API integration and data pipelines
-- Custom automation solutions for businesses
-- End-to-end workflow orchestration
+```
+✓ n8n workflow design & deployment
+✓ API integration & data pipelines
+✓ Business process automation
+✓ End-to-end workflow orchestration
+✓ Google Sheets integration
+✓ Custom automation solutions
+```
 
-### 📊 Full-Stack Development
-- Next.js frontend with intelligent backends
-- Python + JavaScript polyglot development
-- Real-time data processing systems
-- Complete solution architecture
-## Seccion 4
-## My Portfolio
+---
 
-![Portfolio Stats](https://img.shields.io/badge/ML%20Projects-60%25-7A3A8E?style=flat)
-![Python Focus](https://img.shields.io/badge/Python%20Based-80%25-522566?style=flat)
-![Active Repos](https://img.shields.io/badge/Repositories-5-AD74C3?style=flat)
+## 📚 Featured Projects
 
-### Featured Projects
+### 🎓 Machine Learning
+- **pytorch-deep-learning-lab** - Implementations of deep learning from scratch
+  - Custom tensor operations
+  - Dynamic computation graphs
+  - Vision architectures
 
-#### Machine Learning
-- **pytorch-deep-learning-lab** - Deep Learning implementations from scratch
 - **tensorflow-production-models** - Production-ready ML pipelines
-- **python-data-science-foundation** - Algorithms and data processing
+  - Image classification systems
+  - Parameter optimization
+  - Data pipeline engineering
 
-#### Web & Backend
-- **SSS-Santiago.web** - Full-stack web development portfolio
+- **python-data-science-foundation** - Algorithms & data processing
+  - Technical challenges & solutions
+  - Linear algebra & statistics
+  - Data manipulation & analysis
 
-## seccion 5
-## Technical Stack
+### 🌐 Web & Full-Stack
+- **SSS-Santiago.web** - Full-stack portfolio
+  - Next.js frontend
+  - FastAPI backend
+  - PostgreSQL database
+  - Responsive design
+
+---
+
+## 🎯 Technical Stack
 
 **Languages:** Python, JavaScript, SQL
-**ML Frameworks:** PyTorch, TensorFlow, Keras
-**Backend:** FastAPI, PostgreSQL, Supabase
-**DevOps:** Docker, VPS, Oracle Free, Vercel, Hetzner
+
+**Machine Learning:** PyTorch, TensorFlow, Keras, ONNX
+
+**Backend:** FastAPI, Flask, Python
+
+**Databases:** PostgreSQL, Supabase
+
+**DevOps & Cloud:** Docker, VPS (Hetzner, Oracle Free, Hostinger), Vercel, GitHub Actions
+
 **Automation:** n8n, API Integration, Data Pipelines
-**Frontend:** Next.js, React, HTML/CSS
-## Seccion 6
-## Let's Build Something Intelligent
 
-💼 **Interested in collaborating on backend or ML projects?**
+**Frontend:** Next.js, React, HTML/CSS/JavaScript
 
-- 📧 Email: [santiagoserna2175@gmail.com]
-- 🔗 GitHub: [github.com/SSS2121](https://github.com/SSS2121)
-- 💼 LinkedIn: [https://www.linkedin.com/in/serna-solarte-santiago-2a1aa7365/]
+**Tools:** Git, GitHub, Linux, VS Code
 
-I'm open to opportunities in:
-- Backend engineering roles
-- Machine learning engineer positions
-- Full-stack development
-- Consulting on intelligent systems architecture
+---
+
+## 🌟 Highlights
+
+✨ **Self-taught learner** with strong fundamentals in systems engineering & ML
+
+🚀 **Full-stack capable** - can architect complete solutions from database to UI
+
+🧠 **ML enthusiast** - constantly exploring cutting-edge deep learning techniques
+
+🔄 **Automation expert** - designed complex n8n workflows for business automation
+
+💡 **Problem solver** - build intelligent systems that solve real-world challenges
+
+---
+
+## 📈 Current Learning
+
+- 📚 Advanced PyTorch architectures & optimization
+- 🔄 Transitioning to TensorFlow for broader ML coverage
+- 🚀 Production ML systems & deployment strategies
+- ☁️ Scaling backend systems with cloud infrastructure
+
+---
+
+## 🎓 Goals
+
+- 🏆 Build production-grade ML systems deployed at scale
+- 💼 Contribute to open-source ML projects
+- 🌍 Eventually relocate to Spain, then work in Switzerland
+- 🚀 Continue deepening expertise in backend + ML stack
+
+---
+
+## 📞 Let's Connect
+
+I'm always interested in:
+- 💼 Backend engineering opportunities
+- 🤖 Machine learning projects
+- 🏗️ Full-stack development roles
+- 💬 Discussing intelligent systems architecture
+
+### Get in touch:
+
+📧 **Email:** [your.email@example.com]
+
+🔗 **GitHub:** [@SSS2121](https://github.com/SSS2121)
+
+💼 **LinkedIn:** [your-linkedin-profile]
+
+🌐 **Website:** [your-website.com]
+
+---
+
+<div align="center">
+
+### "Building intelligent systems, one model at a time." 🚀
+
+![](https://img.shields.io/badge/Status-Always%20Learning-green?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20To-New%20Opportunities-blue?style=for-the-badge)
+
+</div>
