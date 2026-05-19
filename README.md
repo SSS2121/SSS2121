@@ -166,21 +166,16 @@ I'm always interested in:
 
 ### Get in touch:
 
-📧 **Email:** [your.email@example.com]
+📧 **Email:** [santiagoserna2175@gmail.com]
 
 🔗 **GitHub:** [@SSS2121](https://github.com/SSS2121)
 
-💼 **LinkedIn:** [your-linkedin-profile]
+💼 **LinkedIn:** [https://www.linkedin.com/in/serna-solarte-santiago-2a1aa7365/]
 
-🌐 **Website:** [your-website.com]
+🌐 **Website:** [https://sss-santiago.vercel.app]
 
 ---
 
 <div align="center">
 
-### "Building intelligent systems, one model at a time." 🚀
 
-![](https://img.shields.io/badge/Status-Always%20Learning-green?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20To-New%20Opportunities-blue?style=for-the-badge)
-
-</div>
